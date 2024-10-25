@@ -1,0 +1,30 @@
+PODS:
+  - Flutter (1.0.0)
+  - msecfluttersdk (1.0.1):
+    - Flutter
+    - MsecSdk
+  - MsecSdk (1.0.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - msecfluttersdk (from `.symlinks/plugins/msecfluttersdk/ios`)
+  - MsecSdk (~> 1.0.1)
+
+SPEC REPOS:
+  https://git.msecsys.com/specs.git:
+    - MsecSdk
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  msecfluttersdk:
+    :path: ".symlinks/plugins/msecfluttersdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  msecfluttersdk: f2f201bf3e16098578046d5d01c1b0918eb8e652
+  MsecSdk: bb8f85e169a60c2f522dcdbe5125ae818df957ef
+
+PODFILE CHECKSUM: 8e18bd04548f30f8a4ffd3c71200e9b5a99292d2
+
+COCOAPODS: 1.15.2
