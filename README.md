@@ -1,16 +1,16 @@
-# msecflutterdemo
+# Msec Flutter Sdk Demo
+# About Msec System adn Msec Flutter Sdk
+[Msec System](https://msecsys.com)  is a specialized security platform designed to help mobile applications/games proactively monitor and address potential vulnerabilities. Specifically, these issues include:
+- Premium Assets or Content Leakage/Modification.
+- Rooted/Jailbroken Device Detection.
+- Emulator Compatibility.
+- API Exposure.
+- Application Tampering/Modifying.
+  
+Msec Unity Sdk is a Flutter Plugin that helps Flutter-based applications and games can integrate and run Msec Sdk.
+# How to build and run this demo?
+Please take a look at ([this guide](https://github.com/msecsys-dev/msecflutterdemo/blob/main/guide_to_build_and_run.pdf)) 
+# More information
+- Contact Us: support@msecsys.com
+- Visit Us: https://msecsys.com
 
-Msec Flutter Demo
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
