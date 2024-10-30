@@ -7,7 +7,7 @@
 - API Exposure.
 - Application Tampering/Modifying.
   
-Msec Unity Sdk is a Flutter Plugin that helps Flutter-based applications and games can integrate and run Msec Sdk.
+Msec Flutter Sdk is a Flutter Plugin that helps Flutter-based applications and games can integrate and run Msec Sdk.
 # How to build and run this demo?
 Please take a look at ([this guide](https://github.com/msecsys-dev/msecflutterdemo/blob/main/guide_to_build_and_run.pdf)) 
 # More information
