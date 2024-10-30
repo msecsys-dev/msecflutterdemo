@@ -1,5 +1,5 @@
 # Msec Flutter Sdk Demo
-# About Msec System adn Msec Flutter Sdk
+# About Msec System and Msec Flutter Sdk
 [Msec System](https://msecsys.com)  is a specialized security platform designed to help mobile applications/games proactively monitor and address potential vulnerabilities. Specifically, these issues include:
 - Premium Assets or Content Leakage/Modification.
 - Rooted/Jailbroken Device Detection.
