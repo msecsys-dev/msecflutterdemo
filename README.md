@@ -9,6 +9,22 @@
 - API Exposure.
 - Application Tampering/Modifying.
 # Integrate with Msec Flutter Sdk
+-Update pubspec.yaml
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  msecfluttersdk:
+     hosted: 'https://dart.cloudsmith.io/msecsys/sdk-dev'
+     version: '1.0.1'
+```
+-Install the Plugin
+  Run in terminal:
+   ```bash
+  flutter clean
+  flutter pub cache repair
+  flutter pub get
+  ```
 Msec Flutter Sdk is a Flutter Plugin that helps Flutter-based applications and games can integrate and run Msec Sdk.
 # How to build and run this demo?
 Please take a look at ([this guide](https://github.com/msecsys-dev/msecflutterdemo/blob/main/guide_to_build_and_run.pdf)) 
