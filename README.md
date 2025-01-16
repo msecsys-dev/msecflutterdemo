@@ -19,7 +19,6 @@ dependencies:
      version: '1.0.1'
 ```
 -Install the Plugin
-  Run in terminal:
    ```bash
   flutter clean
   flutter pub cache repair
